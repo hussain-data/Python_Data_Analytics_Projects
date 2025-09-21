@@ -92,4 +92,36 @@ The Jupyter Notebook (`Netflix Data Analytics.ipynb`) performs the following ana
 -   [x] **Attribute Parsing**: Extracted numerical values from the `Duration` column to find the maximum movie length.
 
 ---
-![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/1fb042d6fbe9bc56866f8e472ca01d3fb240f9fa/weather_image.png)
+# 🌦️ Weather Data Analysis
+
+![Weather Analysis Banner](path/to/your/banner.png) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 📖 Project Overview
+
+This project involves an in-depth exploratory data analysis (EDA) of a time-series weather dataset. The dataset contains per-hour information about weather conditions at a particular location, including **Temperature, Humidity, Wind Speed, Visibility, Pressure, and Weather Conditions**.
+
+The primary goal is to use the **Pandas** library in Python to clean, analyze, and answer specific questions about the weather data, demonstrating key data manipulation and analysis techniques.
+
+## 📊 Key Analyses & Questions Explored
+
+This analysis dives into the dataset to answer a variety of questions:
+
+-   ✅ **Data Exploration**: Initial inspection of the dataset's structure, columns, and unique values.
+-   ✅ **Unique Wind Speeds**: Identified all unique wind speed values present in the data.
+-   ✅ **Clear Weather Occurrences**: Calculated the number of times the weather was exactly 'Clear'.
+-   ✅ **Data Cleaning**: Renamed columns for better readability and checked for null values.
+-   ✅ **Statistical Analysis**: Computed the mean, standard deviation, and variance for key metrics like 'Visibility', 'Pressure', and 'Relative Humidity'.
+-   ✅ **Conditional Filtering**:
+    -   Filtered all instances where 'Snow' was recorded.
+    -   Found all records where the 'Wind Speed' was above 24 km/h and 'Visibility' was 25 km.
+    -   Isolated records where the weather was 'Clear' and relative humidity was greater than 50, OR visibility was above 40.
+-   ✅ **Grouped Analysis**: Calculated the mean, minimum, and maximum values for each weather condition to understand the typical metrics associated with different weather types.
+
+## 🛠️ Technology Stack
+
+-   **Python 3**
+-   **Pandas**: The core library used for data loading, cleaning, and analysis.
+-   **Jupyter Notebook**: The environment for interactive analysis and documentation.
+---
