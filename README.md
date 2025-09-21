@@ -43,4 +43,68 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 14. Find the Top 10 employees with the highest salary in each department.
 15. Identify the department with the highest attrition rate (Resigned %).
 ![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/f726ef815b1a7cf880586f8d23e15947ed2db4af/netflix.png)
+
+# 🎬 Netflix Content Analysis
+
+![Netflix Banner Image](path/to/your/banner.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 📌 Project Overview
+
+This project is an exploratory data analysis (EDA) of the Netflix dataset, which contains information on movies and TV shows available up to 2021. The primary objective is to clean, analyze, and visualize the data to uncover trends and insights about the Netflix content library. This analysis serves as a practical demonstration of data manipulation and visualization skills using Python.
+
+---
+
+## 💡 Key Insights
+Here are the top insights discovered from the analysis:
+
+-   **Peak Content Year:** **2019** was the year with the highest volume of new content added to Netflix.
+-   **Content Composition:** The library is dominated by **Movies**, making up approximately **69%** of the content, while TV Shows account for the remaining 31%.
+-   **Top Content Producer:** The **United States** is the leading producer of content on the platform.
+-   **Most Common Rating:** The **TV-MA** (Mature Audience) rating is the most frequent, indicating a large catalog targeted at adults.
+
+---
+## 📊 Visualizations Showcase
+
+#### Content Growth Over Years
+*This chart illustrates the significant increase in content added to Netflix, especially between 2016 and 2019.*
+![Content Release by Year](path/to/your/year_chart.png) #### Movies vs. TV Shows Breakdown
+*A clear visual breakdown of the content library by category.*
+![Movies vs TV Shows](path/to/your/category_chart.png) ---
+
+## 🛠️ Technical Details
+
+### Tech Stack
+-   **Python 3**
+-   **Pandas**: For data cleaning, wrangling, and analysis.
+-   **Seaborn** & **Matplotlib**: For generating data visualizations.
+-   **Jupyter Notebook**: For interactive analysis and reporting.
+
+### Dataset
+-   **Source**: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+-   **Description**: The dataset includes columns such as `Show_Id`, `Category`, `Title`, `Director`, `Country`, `Release_Date`, `Rating`, `Type`, and `Duration`.
+
+---
+## ✅ Analysis Walkthrough
+
+The Jupyter Notebook (`Netflix Data Analytics.ipynb`) performs the following analytical tasks:
+
+-   [x] **Data Loading and Inspection**: Initial loading and review of the dataset's structure and data types.
+-   [x] **Data Cleaning**: Handled duplicate records and investigated null values using a heatmap.
+-   [x] **Date Conversion**: Converted the `Release_Date` column to a proper datetime format for time-based analysis.
+-   [x] **Content Filtering**: Performed various filtering operations to answer specific questions, such as:
+    -   Finding all movies released in 2020.
+    -   Listing all TV shows produced in India.
+    -   Identifying TV shows with an 'R' rating released after 2018.
+-   [x] **Trend Analysis**:
+    -   Counted and plotted the number of releases by year.
+    -   Identified the top 10 directors by content volume.
+    -   Determined the country with the most TV shows.
+-   [x] **Attribute Parsing**: Extracted numerical values from the `Duration` column to find the maximum movie length.
+
+---
 ![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/1fb042d6fbe9bc56866f8e472ca01d3fb240f9fa/weather_image.png)
