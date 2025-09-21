@@ -23,7 +23,7 @@ The project is available as a Jupyter Notebook (HR Data Analysis.ipynb). You can
  ## Data Overview
 The dataset contains the following columns:
 Employee_ID, Full_Name, Department, Job_Title, Hire_Date, Location, 
-Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR
+Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 
 ## Analysis Questions
  **This project answers the following questions:**
@@ -36,11 +36,11 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR
 7. How many employees Resigned & Terminated in each department?
 8. How does salary vary with years of experience?
 9. What is the average performance rating by department?
-10.Which Country has the highest concentration of employees?
-11.Is there a correlation between performance rating and salary?
-12.How has the number of hires changed over time (per year)?
-13.Compare salaries of Remote vs On-Site employees; is there a significant difference?
-14.Find the Top 10 employees with the highest salary in each department.
-15.Identify the department with the highest attrition rate (Resigned %).
+10. Which Country has the highest concentration of employees?
+11. Is there a correlation between performance rating and salary?
+12. How has the number of hires changed over time (per year)?
+13. Compare salaries of Remote vs On-Site employees; is there a significant difference?
+14. Find the Top 10 employees with the highest salary in each department.
+15. Identify the department with the highest attrition rate (Resigned %).
 ![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/f726ef815b1a7cf880586f8d23e15947ed2db4af/netflix.png)
 ![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/1fb042d6fbe9bc56866f8e472ca01d3fb240f9fa/weather_image.png)
