@@ -44,14 +44,12 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 15. Identify the department with the highest attrition rate (Resigned %).
 ---
 # 🎬 Netflix Content Analysis
-
 ![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/e39ead79f3c308735b385d1ff0f60dea5d2831f5/hussain-data.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ---
-
 ## 📌 Project Overview
 
 This project is an exploratory data analysis (EDA) of the Netflix dataset, which contains information on movies and TV shows available up to 2021. The primary objective is to clean, analyze, and visualize the data to uncover trends and insights about the Netflix content library. This analysis serves as a practical demonstration of data manipulation and visualization skills using Python.
@@ -71,9 +69,9 @@ Here are the top insights discovered from the analysis:
 
 #### Content Growth Over Years
 *This chart illustrates the significant increase in content added to Netflix, especially between 2016 and 2019.*
-![Content Release by Year](path/to/your/year_chart.png) #### Movies vs. TV Shows Breakdown
+![Content Release by Year] #### Movies vs. TV Shows Breakdown
 *A clear visual breakdown of the content library by category.*
-![Movies vs TV Shows](path/to/your/category_chart.png) ---
+![Movies vs TV Shows]---
 
 ## 🛠️ Technical Details
 
