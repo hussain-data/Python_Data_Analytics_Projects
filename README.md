@@ -43,18 +43,15 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 14. Find the Top 10 employees with the highest salary in each department.
 15. Identify the department with the highest attrition rate (Resigned %).
 ---
-# 🎬 Netflix Content Analysis Project
+# 🎬 Netflix Data Analysis Project
 ![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/e39ead79f3c308735b385d1ff0f60dea5d2831f5/hussain-data.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
----
 ## 📌 Project Overview
 
 This project is an exploratory data analysis (EDA) of the Netflix dataset, which contains information on movies and TV shows available up to 2021. The primary objective is to clean, analyze, and visualize the data to uncover trends and insights about the Netflix content library. This analysis serves as a practical demonstration of data manipulation and visualization skills using Python.
-
----
 
 ## 💡 Key Insights
 Here are the top insights discovered from the analysis:
@@ -64,7 +61,6 @@ Here are the top insights discovered from the analysis:
 -   **Top Content Producer:** The **United States** is the leading producer of content on the platform.
 -   **Most Common Rating:** The **TV-MA** (Mature Audience) rating is the most frequent, indicating a large catalog targeted at adults.
 
----
 ## 🛠️ Technical Details
 
 ### Tech Stack
@@ -77,7 +73,6 @@ Here are the top insights discovered from the analysis:
 -   **Source**: [Netflix Movies and TV Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 -   **Description**: The dataset includes columns such as `Show_Id`, `Category`, `Title`, `Director`, `Country`, `Release_Date`, `Rating`, `Type`, and `Duration`.
 
----
 ## ✅ Analysis Walkthrough
 
 The Jupyter Notebook (`Netflix Data Analytics.ipynb`) performs the following analytical tasks:
