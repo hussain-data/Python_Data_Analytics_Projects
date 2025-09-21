@@ -43,7 +43,7 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 14. Find the Top 10 employees with the highest salary in each department.
 15. Identify the department with the highest attrition rate (Resigned %).
 ---
-# 🎬 Netflix Content Analysis
+# 🎬 Netflix Content Analysis Project
 ![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/e39ead79f3c308735b385d1ff0f60dea5d2831f5/hussain-data.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
@@ -65,14 +65,6 @@ Here are the top insights discovered from the analysis:
 -   **Most Common Rating:** The **TV-MA** (Mature Audience) rating is the most frequent, indicating a large catalog targeted at adults.
 
 ---
-## 📊 Visualizations Showcase
-
-#### Content Growth Over Years
-*This chart illustrates the significant increase in content added to Netflix, especially between 2016 and 2019.*
-![Content Release by Year] #### Movies vs. TV Shows Breakdown
-*A clear visual breakdown of the content library by category.*
-![Movies vs TV Shows]---
-
 ## 🛠️ Technical Details
 
 ### Tech Stack
