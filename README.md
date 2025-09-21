@@ -42,11 +42,10 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 13. Compare salaries of Remote vs On-Site employees; is there a significant difference?
 14. Find the Top 10 employees with the highest salary in each department.
 15. Identify the department with the highest attrition rate (Resigned %).
-![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/f726ef815b1a7cf880586f8d23e15947ed2db4af/netflix.png)
-
+---
 # 🎬 Netflix Content Analysis
 
-![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/6d6cfd72bdea8f4dbf71e11c33cdbf602506fb68/hussain-data.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
+![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/b80d4a51bd8aef1278082c54641ce7ad7395ad23/hussain-data%20(1).png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
