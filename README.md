@@ -45,7 +45,7 @@ Performance_Rating, Experience_Years, Status, Work_Mode, Salary_INR.
 ---
 # 🎬 Netflix Content Analysis
 
-![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/b80d4a51bd8aef1278082c54641ce7ad7395ad23/hussain-data%20(1).png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
+![Netflix Banner Image](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/e39ead79f3c308735b385d1ff0f60dea5d2831f5/hussain-data.png) [![Language](https://img.shields.io/badge/Language-Python_3-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
