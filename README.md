@@ -94,7 +94,7 @@ The Jupyter Notebook (`Netflix Data Analytics.ipynb`) performs the following ana
 ---
 # 🌦️ Weather Data Analysis
 
-![Weather Analysis Banner](path/to/your/banner.png) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+![Weather Analysis Banner](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/3d05d0f6199681ad0ee59a63df941710b01d1476/Add%20a%20subheading.png) [![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
