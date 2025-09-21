@@ -1,7 +1,7 @@
 # Python_Data_Analytics_Projects
 ---
 # HR Data Analysis Project
-![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/01b9876623dec5f093d6edf9fbba5b065d758ab8/HR-Analytics.webp)
+![image alt](https://github.com/hussain-data/Python_Data_Analytics_Projects/blob/86e65155de67e015ef72da9645efb05788351c21/32e5323a-a415-4456-96e7-ce4b3faaa470.png)
 This project analyzes HR data to gain insights into employee status, work modes, departmental statistics, and salary distributions. The analysis is performed using Python with libraries such as Pandas for data manipulation and Matplotlib/Seaborn for data visualization.
 
 ## Table of Contents
